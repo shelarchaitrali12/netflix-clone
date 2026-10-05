@@ -27,6 +27,7 @@ netflix-clone/
 │
 ├── index.html
 ├── style.css
+<<<<<<< HEAD
 └── README.md
 ```
 
@@ -75,3 +76,6 @@ git clone https://github.com/shelarchaitrali12/netflix-clone.git
 B.E. Electronics & Telecommunication Engineering
 
 GitHub: https://github.com/shelarchaitrali12
+=======
+└── README.md
+>>>>>>> 3e46913 (Add Netflix Clone README)
